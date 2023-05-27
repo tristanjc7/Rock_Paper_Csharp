@@ -1,0 +1,15 @@
+C:\Users\tristan.chandler\Desktop\chander\C#\RockPaperProgram\RockPaperProgram\bin\Debug\net7.0\RockPaperProgram.exe
+C:\Users\tristan.chandler\Desktop\chander\C#\RockPaperProgram\RockPaperProgram\bin\Debug\net7.0\RockPaperProgram.deps.json
+C:\Users\tristan.chandler\Desktop\chander\C#\RockPaperProgram\RockPaperProgram\bin\Debug\net7.0\RockPaperProgram.runtimeconfig.json
+C:\Users\tristan.chandler\Desktop\chander\C#\RockPaperProgram\RockPaperProgram\bin\Debug\net7.0\RockPaperProgram.dll
+C:\Users\tristan.chandler\Desktop\chander\C#\RockPaperProgram\RockPaperProgram\bin\Debug\net7.0\RockPaperProgram.pdb
+C:\Users\tristan.chandler\Desktop\chander\C#\RockPaperProgram\RockPaperProgram\obj\Debug\net7.0\RockPaperProgram.csproj.AssemblyReference.cache
+C:\Users\tristan.chandler\Desktop\chander\C#\RockPaperProgram\RockPaperProgram\obj\Debug\net7.0\RockPaperProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tristan.chandler\Desktop\chander\C#\RockPaperProgram\RockPaperProgram\obj\Debug\net7.0\RockPaperProgram.AssemblyInfoInputs.cache
+C:\Users\tristan.chandler\Desktop\chander\C#\RockPaperProgram\RockPaperProgram\obj\Debug\net7.0\RockPaperProgram.AssemblyInfo.cs
+C:\Users\tristan.chandler\Desktop\chander\C#\RockPaperProgram\RockPaperProgram\obj\Debug\net7.0\RockPaperProgram.csproj.CoreCompileInputs.cache
+C:\Users\tristan.chandler\Desktop\chander\C#\RockPaperProgram\RockPaperProgram\obj\Debug\net7.0\RockPaperProgram.dll
+C:\Users\tristan.chandler\Desktop\chander\C#\RockPaperProgram\RockPaperProgram\obj\Debug\net7.0\refint\RockPaperProgram.dll
+C:\Users\tristan.chandler\Desktop\chander\C#\RockPaperProgram\RockPaperProgram\obj\Debug\net7.0\RockPaperProgram.pdb
+C:\Users\tristan.chandler\Desktop\chander\C#\RockPaperProgram\RockPaperProgram\obj\Debug\net7.0\RockPaperProgram.genruntimeconfig.cache
+C:\Users\tristan.chandler\Desktop\chander\C#\RockPaperProgram\RockPaperProgram\obj\Debug\net7.0\ref\RockPaperProgram.dll
